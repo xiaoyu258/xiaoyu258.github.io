@@ -16,14 +16,16 @@
             
     <p style="text-align:center;">
             Xiaoyu Li <sup>1</sup> <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-            Bo Zhang  <sup>1</sup> <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+            Bo Zhang  <sup>1, 2</sup> <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+            Jing Liao  <sup>3</sup> <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
             Pedro V. Sander <sup>1</sup> <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-            Jing Liao  <sup>2</sup> <span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+            
     </p>
     
     <p style="text-align:center;">
         <sup>1</sup> The Hong Kong University of Science and Technology </a><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-        <sup>2</sup> City University of Hong Kong
+        <sup>2</sup> Microsoft Research Asia </a><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+        <sup>3</sup> City University of Hong Kong
     </p>
     
     <p style="text-align:center;">
@@ -33,51 +35,47 @@
     <p>
     Fig. 1. Geometric and illumination correction. The top row shows the input images and the bottom row shows the results of our approach.
     </p>
-<!--
+
     <h2>Abstract</h2>
     
     <div style="text-align:justify;">
-        We propose the first general framework to automatically
-        correct different types of geometric distortion in a single
-        input image. Our proposed method employs convolutional
-        neural networks (CNNs) trained by using a large synthetic
-        distortion dataset to predict the displacement field between
-        distorted images and corrected images. A model fitting
-        method uses the CNN output to estimate the distortion parameters, achieving a more accurate prediction. The final
-        corrected image is generated based on the predicted flow
-        using an efficient, high-quality resampling method. Experimental results demonstrate that our algorithm outperforms
-        traditional correction methods, and allows for interesting
-        applications such as distortion transfer, distortion exaggeration, and co-occurring distortion correction.
+        We propose a novel learning method to rectify document images with various distortion types from a single input image. 
+        As opposed to previous learning-based methods, our approach seeks to first learn the distortion flow on input image 
+        patches rather than the entire image. We then present a robust technique to stitch the patch results into the rectified 
+        document by processing in the gradient domain. Furthermore, we propose a second network to correct the uneven illumination, 
+        further improving the readability and OCR accuracy. Due to the less complex distortion present on the smaller image patches, 
+        our patch-based approach followed by stitching and illumination correction can significantly improve the overall accuracy 
+        in both the synthetic and real datasets.
     </div>
-    
+
     <h2>Downloads</h2>
     
     <div class="downlonds">
-        <span> Paper [<a href="./Li_Blind_Geometric_Distortion_CVPR_2019_paper.pdf">PDF</a>] </span>
+        <span> Paper [<a href="./docproj_paper.pdf">PDF</a>] </span>
         
-        <span> Supp [<a href="./Li_Blind_Geometric_Distortion_CVPR_2019_supplemental.pdf">PDF</a>] </span>
+        <span> Supp [<a href="./docproj_supp.pdf">PDF</a>] </span>
         
         <span> Code [Link] </span>
     </div>
     
     <h2>BibTeX</h2>
     <p>
-    @InProceedings{Li_2019_CVPR, <br>
-      author = {Li, Xiaoyu and Zhang, Bo and Sander, Pedro V. and Liao, Jing}, <br>
-      title = {Blind Geometric Distortion Correction on Images Through Deep Learning}, <br>
-      booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, <br>
-      month = {June}, <br>
-      year = {2019} <br>
+    @article{li2019docrect, <br>
+    &nbsp; &nbsp; author = {Li, Xiaoyu and Zhang, Bo and Liao, Jing and Sander, Pedro V.}, <br>
+    &nbsp; &nbsp; title = {Document Rectification and Illumination Correction using a Patch-based CNN}, <br>
+    &nbsp; &nbsp; journal={ACM Transactions on Graphics (TOG)}, <br>
+    &nbsp; &nbsp; month = {11}, <br>
+    &nbsp; &nbsp; year = {2019} <br>
     }
     </p>
 
     <h2>Acknowledgement</h2>
     
     <div style="text-align:justify;">
-    We thank the anonymous reviewers for their valuable comments. 
-    This work was partly supported by CityU of Hong Kong Start-up Grant No. 7200607/CS, and Hong Kong GRF Grant No. 16208814.
+    We thank the anonymous reviewers for valuable feedback on our manuscript. This work was partly supported by Hong Kong ECS
+grant # 21209119, Hong Kong UGC, and HKUST DAG06/07.EG07 grants.
     </div>
--->
+
 </div>
 </body>
 
