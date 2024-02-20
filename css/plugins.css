@@ -61,14 +61,14 @@ table{
 	width:100%;
 	max-width:100%;
 	text-align:left;
-	border-collapse: collapse;
-	border-spacing: 0px;
+	border-collapse: separate;
+	border-spacing: 0px 20px;
 	margin-bottom:15px;
-	color:#999;
-	border:1px solid #eee;
+	color:#000;
+	border:0px solid #eee;
 }
 table tr{
-	border:1px solid #eee;
+	border:0px solid #eee;
 }
 table th{
 	vertical-align:top;
@@ -77,12 +77,18 @@ table th{
 	font-size:16px;
 	font-weight:normal;
 	padding:15px 10px;
-	border:1px solid #eee;
+	border:0px solid #eee;
 }
 table td{
 	vertical-align:top;
 	padding:10px;
-	border:1px solid #eee;
+	border:0px solid #eee;
+}
+
+.mytd{
+	vertical-align:top;
+	padding:10px 50px;
+	border:0px solid #eee;
 }
 
 code, pre {
@@ -477,7 +483,7 @@ input[type="button"]{
 /*------------------------------------------------------------------*/
 
 .container {
-	max-width: 1170px;
+	max-width: 1300px;
 	width:100%;
 	margin-left: auto;
 	margin-right: auto;
