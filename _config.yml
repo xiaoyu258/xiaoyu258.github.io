@@ -27,10 +27,10 @@ author:
   name             : "Xiaoyu Li"
   pronouns         : # example: "she/her"  
   bio              : "Senior Algorithm Expert"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Zhejiang, China"
+  employer         : "Alibaba, ATH, Qwen Business Unit"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xliea@connect.ust.hk" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
