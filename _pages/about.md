@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior algorithm expert at Alibaba, ATH, Qwen Business Unit.
-I received my Ph.D. degree with the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology ([HKUST]("https://hkust.edu.hk")) in 2021, 
+I am currently a Senior Algorithm Expert at Alibaba, ATH, Qwen Business Unit. We focus on cutting-edge technologies in image/video generation and editing, multimodal generation and unified multimodal models. Our algorithm has been integrated into the [Qwen App]("https://chat.qwen.ai"), serving millions of users.
+
+Before joining Alibaba, I was a researcher at Tencent AI Lab/ARC Lab. I obtained my Ph.D. in Electronic and Computer Engineering from the Hong Kong University of Science and Technology ([HKUST]("https://hkust.edu.hk")) in 2021, 
 supervised by [Prof. Pedro V. Sander]("https://cse.hkust.edu.hk/~psander").
-Prior to that, I received a Bachelor of Engineering at Huazhong University of Science and Technology ([HUST]("https://www.hust.edu.cn")) in 2017. 
-I joined the Tencent AI Lab in September 2021.
+Prior to that, I received my B.E. degree from the Huazhong University of Science and Technology ([HUST]("https://www.hust.edu.cn")) in 2017.
+
+Hiring! We are actively seeking highly motivated research interns, algorithm engineers, and researchers to join our team. If you are passionate about pushing the boundaries of generative model, multimodal generation, and multimodal models, please feel free to reach out via email (xliea@connect.ust.hk) with your CV.
 
 
 Education
