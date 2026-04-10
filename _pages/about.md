@@ -1,15 +1,40 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a senior algorithm expert at Alibaba, ATH, Qwen Business Unit.
+I received my Ph.D. degree with the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology ([HKUST]("https://hkust.edu.hk")) in 2021, 
+supervised by [Prof. Pedro V. Sander]("https://cse.hkust.edu.hk/~psander").
+Prior to that, I received a Bachelor of Engineering at Huazhong University of Science and Technology ([HUST]("https://www.hust.edu.cn")) in 2017. 
+I joined the Tencent AI Lab in September 2021.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+Education
+======
+* Ph.D, Hong Kong University of Science and Technology, 2021
+* B.E., Huazhong University of Science and Technology, 2017
+
+Work Experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
 A data-driven personal website
 ======
