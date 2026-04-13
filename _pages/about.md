@@ -13,7 +13,7 @@ Before joining Alibaba, I was a Senior Researcher at Tencent AI Lab/ARC Lab. I o
 supervised by [Prof. Pedro V. Sander](https://cse.hkust.edu.hk/~psander).
 Prior to that, I received my B.E. degree from the Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn)) in 2017.
 
-:exclamation::exclamation:We are actively seeking highly motivated research interns, algorithm engineers, and researchers to join our team working on related topics. Please feel free to reach out via email (xliea@connect.ust.hk) with your CV.
+:bangbang:We are actively seeking highly motivated research interns, algorithm engineers, and researchers to join our team working on related topics. Please feel free to reach out via email (xliea@connect.ust.hk) with your CV.
 
 # News
 * Mar 2026: 2 papers were accepted to SIGGRAPH 2026.
@@ -27,9 +27,9 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 * B.E., Huazhong University of Science and Technology, 2017
 
 # Work Experience
-* [2026-] Senior Algorithm Expert, Qwen Business Unit, Alibaba
+* [2026-now] Senior Algorithm Expert, Qwen Business Unit, Alibaba
 * [2021-2025] Senior Researcher, AI Lab/ARC Lab, Tencent
 
 
 # Publications
-#### 2026:
+### 2026:
