@@ -16,15 +16,20 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 :exclamation::exclamation:We are actively seeking highly motivated research interns, algorithm engineers, and researchers to join our team working on related topics. Please feel free to reach out via email (xliea@connect.ust.hk) with your CV.
 
 # News
+* Mar 2026: 2 papers were accepted to SIGGRAPH 2026.
+* Mar 2026: 1 paper was accepted to IJCV.
+* Mar 2026: I joined Alibaba.
+* Feb 2026: 2 papers were accepted to CVPR 2026.
+* Jan 2026: 3 papers were accepted to ICLR 2026.
 
 # Education
 * Ph.D, Hong Kong University of Science and Technology, 2021
 * B.E., Huazhong University of Science and Technology, 2017
 
 # Work Experience
-* [2026-present] Senior Algorithm Expert, Qwen Business Unit, Alibaba
+* [2026-] Senior Algorithm Expert, Qwen Business Unit, Alibaba
 * [2021-2025] Senior Researcher, AI Lab/ARC Lab, Tencent
 
 
 # Publications
-## 2026:
+#### 2026:
