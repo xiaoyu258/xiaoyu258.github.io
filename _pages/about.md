@@ -21,7 +21,10 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 * Mar 2026: I joined Alibaba.
 * Feb 2026: 2 papers were accepted to CVPR 2026.
 * Jan 2026: 3 papers were accepted to ICLR 2026.
-
+* Sep 2025: 1 paper was accepted to PAMI.
+* Aug 2025: 1 paper was accepted to SIGGRAPH Asia 2025.
+* Jun 2025: 1 paper was accepted to ICCV 2025.
+* Feb 2025: 4 paper were accepted to CVPR 2025.
 # Education
 * Ph.D, Hong Kong University of Science and Technology, 2021
 * B.E., Huazhong University of Science and Technology, 2017
