@@ -25,6 +25,7 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 * Aug 2025: 1 paper was accepted to SIGGRAPH Asia 2025.
 * Jun 2025: 1 paper was accepted to ICCV 2025.
 * Feb 2025: 4 papers were accepted to CVPR 2025.
+
 # Education
 * Ph.D, Hong Kong University of Science and Technology, 2021
 * B.E., Huazhong University of Science and Technology, 2017
