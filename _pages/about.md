@@ -29,29 +29,22 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 * Feb 2025: 4 papers were accepted to CVPR 2025.
 
 
-# 🎓 Education
+# Education
 * Ph.D, Hong Kong University of Science and Technology, 2021
 * B.E., Huazhong University of Science and Technology, 2017
 
 
-# 💻 Work Experience
+# Work Experience
 * [2026-now] Senior Algorithm Expert, Qwen Business Unit, Alibaba
 * [2021-2025] Senior Researcher, AI Lab/ARC Lab, Tencent
 
 
-# 📚 Publications
+# Publications
 
 <sup>#</sup> Corresponding authors.
 
 ### 2026:
 
-> ### **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
-> Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan
-> **ICCV 2025** [📄 Paper](#) · [💻 Code](#)  
-
-
-### **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
-
-Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan
-
-**ICCV 2025** · [📄 Paper](https://arxiv.org/xxxx.xxxxx) · [💻 Code](https://github.com/xxx/xxx)
+> **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video** <br>
+> Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
+> [**CVPR 2026**](#) [[Paper](#)] [[Code](#)]
