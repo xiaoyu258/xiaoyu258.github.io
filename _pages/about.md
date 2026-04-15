@@ -13,27 +13,45 @@ Before joining Alibaba, I was a Senior Researcher at Tencent AI Lab/ARC Lab. I o
 supervised by [Prof. Pedro V. Sander](https://cse.hkust.edu.hk/~psander).
 Prior to that, I received my B.E. degree from the Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn)) in 2017.
 
-:bangbang:We are actively seeking highly motivated research interns, algorithm engineers, and researchers to join our team working on related topics. Please feel free to reach out via email (xliea@connect.ust.hk) with your CV.
+👋 We are actively seeking highly motivated research interns, algorithm engineers, and researchers to join our team working on related topics. Please feel free to reach out via email (xliea@connect.ust.hk) with your CV.
 
-# News
+
+# 📌 News
+* Mar 2026: I joined Alibaba.
 * Mar 2026: 2 papers were accepted to SIGGRAPH 2026.
 * Mar 2026: 1 paper was accepted to IJCV.
-* Mar 2026: I joined Alibaba.
 * Feb 2026: 2 papers were accepted to CVPR 2026.
 * Jan 2026: 3 papers were accepted to ICLR 2026.
+* Dec 2025: 1 paper was accepted to AAAI 2025.
 * Sep 2025: 1 paper was accepted to PAMI.
 * Aug 2025: 1 paper was accepted to SIGGRAPH Asia 2025.
 * Jun 2025: 1 paper was accepted to ICCV 2025.
 * Feb 2025: 4 papers were accepted to CVPR 2025.
 
-# Education
+
+# 🎓 Education
 * Ph.D, Hong Kong University of Science and Technology, 2021
 * B.E., Huazhong University of Science and Technology, 2017
 
-# Work Experience
+
+# 💻 Work Experience
 * [2026-now] Senior Algorithm Expert, Qwen Business Unit, Alibaba
 * [2021-2025] Senior Researcher, AI Lab/ARC Lab, Tencent
 
 
-# Publications
+# 📚 Publications
+
+<sup>#</sup> Corresponding authors.
+
 ### 2026:
+
+> ### **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
+> Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan
+> **ICCV 2025** [📄 Paper](#) · [💻 Code](#)  
+
+
+### **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**
+
+Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan
+
+**ICCV 2025** · [📄 Paper](https://arxiv.org/xxxx.xxxxx) · [💻 Code](https://github.com/xxx/xxx)
