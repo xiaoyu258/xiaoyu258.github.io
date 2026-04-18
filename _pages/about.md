@@ -48,7 +48,7 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 ### 2026:
 
 * **ViewWeaver: Geometry-Grounded Neural Generative Rendering for 3D-Aware Image Customization** <br>
-Yaowei Li, **Xiaoyu Li <sup>#</sup>**, Zhaoyang Zhang, Hongxiang Li, Long Chen, Ying Shan, and Yuexian Zou <br>
+Yaowei Li, **Xiaoyu Li<sup>#</sup>**, Zhaoyang Zhang, Hongxiang Li, Long Chen, Ying Shan, and Yuexian Zou <br>
 **SIGGRAPH 2026.** 
 
 * **BoxCtrl: 3D-Aware Visual Prompting for Geometric Image Editing** <br>
@@ -56,11 +56,11 @@ Feifei Wang, Shiyuan Yang, **Xiaoyu Li**, Jing Liao <br>
 **SIGGRAPH 2026.** 
 
 * **IC-Custom: Diverse Image Customization via In-Context Learning** <br>
-Yaowei Li, **Xiaoyu Li <sup>#</sup>**, Zhaoyang Zhang, Yuxuan Bian, Gan Liu, Xinyuan Li, Jiale Xu, Wenbo Hu, Yating Liu, Lingen Li, Jing Cai, Yuexian Zou, Yancheng He, Ying Shan <br>
+Yaowei Li, **Xiaoyu Li<sup>#</sup>**, Zhaoyang Zhang, Yuxuan Bian, Gan Liu, Xinyuan Li, Jiale Xu, Wenbo Hu, Yating Liu, Lingen Li, Jing Cai, Yuexian Zou, Yancheng He, Ying Shan <br>
 **ICLR 2026.** [[Page](https://liyaowei-stu.github.io/project/IC_Custom/)] [[Paper](https://arxiv.org/abs/2507.01926)] [[Code](https://github.com/TencentARC/IC-Custom)]
 
 * **GenCompositor: Generative Video Compositing with Diffusion Transformer** <br>
-Shuzhou Yang, **Xiaoyu Li <sup>#</sup>**, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang <br>
+Shuzhou Yang, **Xiaoyu Li<sup>#</sup>**, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang <br>
 **ICLR 2026.** [[Page](https://gencompositor.github.io/)] [[Paper](https://arxiv.org/abs/2509.02460)] [[Code](https://github.com/TencentARC/GenCompositor)]
 
 * **ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** <br>
