@@ -45,9 +45,7 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 
 # Publications
 \* equal contribution &emsp; \# corresponding author / project lead 
-
 ## 2026:
-
-> **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video** <br>
-> Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
-> [**CVPR 2026**](#) [[Paper](#)] [[Code](#)]
+**CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video** <br>
+Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
+**CVPR 2026** [[Paper](#)] [[Code](#)]
