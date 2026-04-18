@@ -46,6 +46,31 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 # Publications
 \* equal contribution &emsp; \# corresponding author / project lead 
 ### 2026:
+
+<font size=2>
+
+* **ViewWeaver: Geometry-Grounded Neural Generative Rendering for 3D-Aware Image Customization** <br>
+Yaowei Li, Xiaoyu Li, Zhaoyang Zhang, Hongxiang Li, Long Chen, Ying Shan, and Yuexian Zou <br>
+**SIGGRAPH 2026** 
+
+* **BoxCtrl: 3D-Aware Visual Prompting for Geometric Image Editing** <br>
+Feifei Wang, Shiyuan Yang, Xiaoyu Li, Jing Liao <br>
+**SIGGRAPH 2026** 
+
+* **IC-Custom: Diverse Image Customization via In-Context Learning** <br>
+Yaowei Li, Xiaoyu Li, Zhaoyang Zhang, Yuxuan Bian, Gan Liu, Xinyuan Li, Jiale Xu, Wenbo Hu, Yating Liu, Lingen Li, Jing Cai, Yuexian Zou, Yancheng He, Ying Shan <br>
+**ICLR 2026** 
+
+* **GenCompositor: Generative Video Compositing with Diffusion Transformer** <br>
+Shuzhou Yang, Xiaoyu Li, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang <br>
+**ICLR 2026** 
+
+* **ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** <br>
+Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, Xiaoyu Li, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
+**ICLR 2026** 
+
 * **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video** <br>
 Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
 **CVPR 2026** [[Paper](#)] [[Code](#)]
+
+</font>
