@@ -47,8 +47,6 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 \* equal contribution &emsp; \# corresponding author / project lead 
 ### 2026:
 
-<font size=2>
-
 * **ViewWeaver: Geometry-Grounded Neural Generative Rendering for 3D-Aware Image Customization** <br>
 Yaowei Li, Xiaoyu Li, Zhaoyang Zhang, Hongxiang Li, Long Chen, Ying Shan, and Yuexian Zou <br>
 **SIGGRAPH 2026** 
@@ -72,5 +70,3 @@ Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, Xiaoyu Li, Qi Dou, Jinwei G
 * **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video** <br>
 Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
 **CVPR 2026** [[Paper](#)] [[Code](#)]
-
-</font>
