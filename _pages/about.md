@@ -44,8 +44,7 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 <br>
 
 # Publications
-
-<sup>*</sup>equal contribution &emsp; <sup>#</sup>corresponding author / project lead 
+\* equal contribution &emsp; \# corresponding author / project lead 
 
 ## 2026:
 
