@@ -70,7 +70,7 @@ Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, **Xiaoyu Li**, Qi Dou, Jinw
 
 * **CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video** <br>
 Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
-**CVPR 2026.** [[Page](https://github.com/TencentARC/CubeComposer)] [[Paper](https://arxiv.org/abs/2603.04291)] [[Code](https://lg-li.github.io/project/cubecomposer/)]
+**CVPR 2026.** [[Page](https://lg-li.github.io/project/cubecomposer/)] [[Paper](https://arxiv.org/abs/2603.04291)] [[Code](https://github.com/TencentARC/CubeComposer)]
 
 * **VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** <br>
 Sixiao Zheng, Minghao Yin, Wenbo Hu, **Xiaoyu Li**, Ying Shan, Yanwei Fu <br>
