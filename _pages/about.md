@@ -45,6 +45,7 @@ Prior to that, I received my B.E. degree from the Huazhong University of Science
 
 # Publications
 \* equal contribution &emsp; \# corresponding author / project lead 
+
 ### 2026:
 
 * **ViewWeaver: Geometry-Grounded Neural Generative Rendering for 3D-Aware Image Customization** <br>
@@ -54,6 +55,11 @@ Yaowei Li, **Xiaoyu Li<sup>#</sup>**, Zhaoyang Zhang, Hongxiang Li, Long Chen, Y
 * **BoxCtrl: 3D-Aware Visual Prompting for Geometric Image Editing** <br>
 Feifei Wang, Shiyuan Yang, **Xiaoyu Li**, Jing Liao <br>
 **SIGGRAPH 2026.** 
+
+* **4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation** <br>
+Shuzhou Yang, Xiaodong Cun, **Xiaoyu Li<sup>#</sup>**, Yaowei Li, Jian Zhang <br>
+**IJCV.** [[Page](https://4dvd.github.io/)] [[Paper](https://arxiv.org/abs/2508.04467)]
+
 
 * **IC-Custom: Diverse Image Customization via In-Context Learning** <br>
 Yaowei Li, **Xiaoyu Li<sup>#</sup>**, Zhaoyang Zhang, Yuxuan Bian, Gan Liu, Xinyuan Li, Jiale Xu, Wenbo Hu, Yating Liu, Lingen Li, Jing Cai, Yuexian Zou, Yancheng He, Ying Shan <br>
@@ -75,3 +81,45 @@ Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tian
 * **VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** <br>
 Sixiao Zheng, Minghao Yin, Wenbo Hu, **Xiaoyu Li**, Ying Shan, Yanwei Fu <br>
 **CVPR 2026.** [[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] [[Paper](https://arxiv.org/abs/2601.05138)] [[Code](https://github.com/TencentARC/VerseCrafter)]
+
+### 2025:
+
+* **UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling** <br>
+Yujiao Jiang, Qingmin Liao, **Xiaoyu Li<sup>#</sup>**, Li Ma, Qi Zhang, Chaopeng Zhang, Zongqing Lu, Ying Shan <br>
+**Knowledge-Based Systems.** [[Page](https://alex-jyj.github.io/UV-Gaussians/)] [[Paper](https://arxiv.org/abs/2403.11589)]
+
+* **MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement** <br>
+Xu He, **Xiaoyu Li**, Di Kang, Jiangnan Ye, Chaopeng Zhang, Liyang Chen, Xiangjun Gao, Han Zhang, Zhiyong Wu, Haolin Zhuang <br>
+**AAAI 2025.** [[Page](https://thuhcsi.github.io/MagicMan/)] [[Paper](https://arxiv.org/pdf/2408.14211)] [[Code](https://github.com/thuhcsi/MagicMan)]
+
+* **ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis** <br>
+Wangbo Yu, Jinbo Xing, Li Yuan, Wenbo Hu, **Xiaoyu Li**, Zhipeng Huang, Xiangjun Gao, Tien-Tsin Wong, Ying Shan, Yonghong Tian <br>
+**PAMI.** [[Page](https://drexubery.github.io/ViewCrafter/)] [[Paper](https://arxiv.org/abs/2409.02048)] [[Code](https://github.com/Drexubery/ViewCrafter)]
+
+* **BlobCtrl: Taming Controllable Blob for Element-level Image Editing** <br>
+Yaowei Li, Lingen Li, Zhaoyang Zhang, **Xiaoyu Li**, Guangzhi Wang, Hongxiang Li, Xiaodong Cun, Ying Shan, Yuexian Zou <br>
+**PAMI.** [[Page](https://liyaowei-stu.github.io/project/BlobCtrl/)] [[Paper](https://arxiv.org/abs/2503.13434)] [[Code](https://github.com/TencentARC/BlobCtrl)]
+
+* **HumanRef-GS: Image-to-3D Human Generation With Reference-Guided Diffusion and 3D Gaussian Splatting** <br>
+Jingbo Zhang, **Xiaoyu Li<sup>#</sup>**, Hongliang Zhong, Qi Zhang, Yanpei Cao, Ying Shan, Jing Liao <br>
+**TCSVT.** [[Paper](https://ieeexplore.ieee.org/document/10879794/)] 
+
+* **GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors** <br>
+Tian-Xing Xu, Xiangjun Gao, Wenbo Hu, **Xiaoyu Li**, Song-Hai Zhang, Ying Shan <br>
+**ICCV 2025.** [[Page](https://geometrycrafter.github.io/)] [[Paper](https://arxiv.org/abs/2504.01016)] [[Code](https://github.com/TencentARC/GeometryCrafter)]
+
+* **DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos** <br>
+Wenbo Hu, Xiangjun Gao, Xiaoyu Li, Sijie Zhao, Xiaodong Cun, Yong Zhang, Long Quan, Ying Shan <br>
+**CVPR 2025.** [[Page](https://depthcrafter.github.io/)] [[Paper](https://arxiv.org/abs/2409.02095)] [[Code](https://depthcrafter.github.io/)]
+
+* **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation** <br>
+Minghong Cai, Xiaodong Cun, Xiaoyu Li, Wenze Liu, Zhaoyang Zhang, Yong Zhang, Ying Shan, Xiangyu Yue <br>
+**CVPR 2025.** [[Page](https://onevfall.github.io/project_page/ditctrl/)] [[Paper](https://arxiv.org/abs/2412.18597)] [[Code](https://github.com/TencentARC/DiTCtrl)]
+
+* **Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh** <br>
+Xiangjun Gao, Xiaoyu Li, Yiyu Zhuang, Qi Zhang, Wenbo Hu, Chaopeng Zhang, Yao Yao, Ying Shan, Long Quan <br>
+**CVPR 2025.** [[Page](https://gaoxiangjun.github.io/mani_gs/)] [[Paper](https://arxiv.org/abs/2405.17811)] [[Code](https://github.com/gaoxiangjun/Mani-GS)]
+
+* **NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images** <br>
+Lingen Li, Zhaoyang Zhang, Yaowei Li, Jiale Xu, Wenbo Hu, Xiaoyu Li, Weihao Cheng, Jinwei Gu, Tianfan Xue, Ying Shan <br>
+**CVPR 2025.** [[Page](https://lg-li.github.io/project/nvcomposer/)] [[Paper](https://arxiv.org/abs/2412.03517)] [[Code](https://github.com/TencentARC/NVComposer)]
