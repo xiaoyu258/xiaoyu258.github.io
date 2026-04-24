@@ -98,7 +98,7 @@ Wangbo Yu, Jinbo Xing, Li Yuan, Wenbo Hu, **Xiaoyu Li**, Zhipeng Huang, Xiangjun
 
 * **BlobCtrl: Taming Controllable Blob for Element-level Image Editing** <br>
 Yaowei Li, Lingen Li, Zhaoyang Zhang, **Xiaoyu Li**, Guangzhi Wang, Hongxiang Li, Xiaodong Cun, Ying Shan, Yuexian Zou <br>
-**PAMI.** [[Page](https://liyaowei-stu.github.io/project/BlobCtrl/)] [[Paper](https://arxiv.org/abs/2503.13434)] [[Code](https://github.com/TencentARC/BlobCtrl)]
+**SIGGRAPH Asia 2025.** [[Page](https://liyaowei-stu.github.io/project/BlobCtrl/)] [[Paper](https://arxiv.org/abs/2503.13434)] [[Code](https://github.com/TencentARC/BlobCtrl)]
 
 * **HumanRef-GS: Image-to-3D Human Generation With Reference-Guided Diffusion and 3D Gaussian Splatting** <br>
 Jingbo Zhang, **Xiaoyu Li<sup>#</sup>**, Hongliang Zhong, Qi Zhang, Yanpei Cao, Ying Shan, Jing Liao <br>
@@ -109,17 +109,17 @@ Tian-Xing Xu, Xiangjun Gao, Wenbo Hu, **Xiaoyu Li**, Song-Hai Zhang, Ying Shan <
 **ICCV 2025.** [[Page](https://geometrycrafter.github.io/)] [[Paper](https://arxiv.org/abs/2504.01016)] [[Code](https://github.com/TencentARC/GeometryCrafter)]
 
 * **DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos** <br>
-Wenbo Hu, Xiangjun Gao, Xiaoyu Li, Sijie Zhao, Xiaodong Cun, Yong Zhang, Long Quan, Ying Shan <br>
-**CVPR 2025.** [[Page](https://depthcrafter.github.io/)] [[Paper](https://arxiv.org/abs/2409.02095)] [[Code](https://depthcrafter.github.io/)]
+Wenbo Hu, Xiangjun Gao, **Xiaoyu Li<sup>#</sup>**, Sijie Zhao, Xiaodong Cun, Yong Zhang, Long Quan, Ying Shan <br>
+**CVPR 2025.** [[Page](https://depthcrafter.github.io/)] [[Paper](https://arxiv.org/abs/2409.02095)] [[Code](https://github.com/Tencent/DepthCrafter)]
 
 * **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation** <br>
-Minghong Cai, Xiaodong Cun, Xiaoyu Li, Wenze Liu, Zhaoyang Zhang, Yong Zhang, Ying Shan, Xiangyu Yue <br>
+Minghong Cai, Xiaodong Cun, **Xiaoyu Li<sup>#</sup>**, Wenze Liu, Zhaoyang Zhang, Yong Zhang, Ying Shan, Xiangyu Yue <br>
 **CVPR 2025.** [[Page](https://onevfall.github.io/project_page/ditctrl/)] [[Paper](https://arxiv.org/abs/2412.18597)] [[Code](https://github.com/TencentARC/DiTCtrl)]
 
 * **Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh** <br>
-Xiangjun Gao, Xiaoyu Li, Yiyu Zhuang, Qi Zhang, Wenbo Hu, Chaopeng Zhang, Yao Yao, Ying Shan, Long Quan <br>
+Xiangjun Gao, **Xiaoyu Li<sup>#</sup>**, Yiyu Zhuang, Qi Zhang, Wenbo Hu, Chaopeng Zhang, Yao Yao, Ying Shan, Long Quan <br>
 **CVPR 2025.** [[Page](https://gaoxiangjun.github.io/mani_gs/)] [[Paper](https://arxiv.org/abs/2405.17811)] [[Code](https://github.com/gaoxiangjun/Mani-GS)]
 
 * **NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images** <br>
-Lingen Li, Zhaoyang Zhang, Yaowei Li, Jiale Xu, Wenbo Hu, Xiaoyu Li, Weihao Cheng, Jinwei Gu, Tianfan Xue, Ying Shan <br>
+Lingen Li, Zhaoyang Zhang, Yaowei Li, Jiale Xu, Wenbo Hu, **Xiaoyu Li**, Weihao Cheng, Jinwei Gu, Tianfan Xue, Ying Shan <br>
 **CVPR 2025.** [[Page](https://lg-li.github.io/project/nvcomposer/)] [[Paper](https://arxiv.org/abs/2412.03517)] [[Code](https://github.com/TencentARC/NVComposer)]
