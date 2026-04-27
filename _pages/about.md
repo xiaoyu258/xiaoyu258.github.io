@@ -210,4 +210,21 @@ Xingyu Chen, Qi Zhang, **Xiaoyu Li**, Yue Chen, Ying Feng, Xuan Wang, Jue Wang <
 Jingxiang Sun, Xuan Wang, Yong Zhang, **Xiaoyu Li**, Qi Zhang, Yebin Liu, Jue Wang <br>
 **CVPR 2022.** [[Page](https://mrtornado24.github.io/FENeRF/)] [[Paper](https://arxiv.org/abs/2111.15490)] [[Code](https://github.com/MrTornado24/FENeRF)]
 
+### 2021 and Before:
+
+* **Let's See Clearly: Contaminant Artifact Removal for Moving Cameras** <br>
+**Xiaoyu Li**, Bo Zhang, Jing Liao, Pedro V. Sander <br>
+**ICCV 2021.** [[Paper](https://arxiv.org/abs/2104.08852)] 
+
+* **Deep Sketch-guided Cartoon Video Inbetweening** <br>
+**Xiaoyu Li**, Bo Zhang, Jing Liao, Pedro V. Sander <br>
+**TVCG.** [[Paper](https://arxiv.org/abs/2008.04149)] [[Code](https://github.com/xiaoyu258/Inbetweening)] 
+
+* **Document Rectification and Illumination Correction using a Patch-based CNN** <br>
+**Xiaoyu Li**, Bo Zhang, Jing Liao, Pedro V. Sander <br>
+**SIGGRAPH Asia 2019 (TOG).** [[Paper](https://arxiv.org/abs/1909.09470)] [[Code](https://github.com/xiaoyu258/DocProj)] 
+
+* **Blind Geometric Distortion Correction on Images Through Deep Learning** <br>
+**Xiaoyu Li**, Bo Zhang, Pedro V. Sander, Jing Liao <br>
+**CVPR 2019.** [[Paper](https://arxiv.org/abs/1909.03459)] [[Code](https://github.com/xiaoyu258/geoproj)] 
 
