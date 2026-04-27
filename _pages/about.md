@@ -123,3 +123,41 @@ Xiangjun Gao, **Xiaoyu Li<sup>#</sup>**, Yiyu Zhuang, Qi Zhang, Wenbo Hu, Chaope
 * **NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images** <br>
 Lingen Li, Zhaoyang Zhang, Yaowei Li, Jiale Xu, Wenbo Hu, **Xiaoyu Li**, Weihao Cheng, Jinwei Gu, Tianfan Xue, Ying Shan <br>
 **CVPR 2025.** [[Page](https://lg-li.github.io/project/nvcomposer/)] [[Paper](https://arxiv.org/abs/2412.03517)] [[Code](https://github.com/TencentARC/NVComposer)]
+
+### 2024:
+
+* **StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos** <br>
+Sijie Zhao, Wenbo Hu, Xiaodong Cun, Yong Zhang, **Xiaoyu Li<sup>#</sup>**, Zhe Kong, Xiangjun Gao, Muyao Niu, Ying Shan <br>
+**Technical Report.** [[Page](https://stereocrafter.github.io/)] [[Paper](https://arxiv.org/abs/2409.07447)] [[Code](https://github.com/TencentARC/StereoCrafter)]
+
+* **CV-VAE: A Compatible Video VAE for Latent Generative Video Models** <br>
+Sijie Zhao, Yong Zhang, Xiaodong Cun, Shaoshu Yang, Muyao Niu, **Xiaoyu Li**, Wenbo Hu, Ying Shan <br>
+**NeurIPS 2024.** [[Page](https://ailab-cvc.github.io/cvvae/index.html)] [[Paper](https://arxiv.org/abs/2405.20279)] [[Code](https://github.com/AILab-CVC/CV-VAE)]
+
+* **HiFi-123: Towards High-fidelity One Image to 3D Content Generation** <br>
+Wangbo Yu, Li Yuan, Yan-Pei Cao, Xiangjun Gao, **Xiaoyu Li**, Wenbo Hu, Long Quan, Ying Shan, Yonghong Tian <br>
+**ECCV 2024.** [[Page](https://drexubery.github.io/HiFi-123/)] [[Paper](https://arxiv.org/abs/2310.06744)] [[Code](https://github.com/AILab-CVC/HiFi-123)]
+
+* **Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360°** <br>
+Yuxiao He, Yiyu Zhuang, Yanwen Wang, Yao Yao, Siyu Zhu, **Xiaoyu Li**, Qi Zhang, Xun Cao, Hao Zhu <br>
+**ECCV 2024.** [[Page](https://nju-3dv.github.io/projects/Head360/)] [[Paper](https://arxiv.org/abs/2408.00296)] [[Code](https://github.com/dinosaur-eg/Head360)]
+
+* **NeAI: A Pre-convoluted Representation for Plug-and-Play Neural Ambient Illumination** <br>
+Yiyu Zhuang, Qi Zhang, Xuan Wang, Hao Zhu, Ying Feng, **Xiaoyu Li**, Ying Shan, Xun Cao <br>
+**AAAI 2024.** [[Page](https://yiyuzhuang.github.io/NeAI/)] [[Paper](https://arxiv.org/abs/2304.08757)]
+
+* **Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields** <br>
+Jingbo Zhang, **Xiaoyu Li<sup>#</sup>**, Ziyu Wan, Can Wang, Jing Liao <br>
+**TVCG.** [[Paper](https://arxiv.org/abs/2305.11588)] [[Code](https://github.com/eckertzhang/Text2NeRF)] 
+
+* **Advances in 3D Generation: A Survey** <br>
+**Xiaoyu Li**, Qi Zhang, Di Kang, Weihao Cheng, Yiming Gao, Jingbo Zhang, Zhihao Liang, Jing Liao, Yan-Pei Cao, Ying Shan <br>
+**Technical Report.** [[Paper](https://arxiv.org/pdf/2401.17807)] 
+
+* **HumanRef: Single Image to 3D Human Generation via Reference-Guided Diffusion** <br>
+Jingbo Zhang, **Xiaoyu Li**, Qi Zhang, Yanpei Cao, Ying Shan, Jing Liao <br>
+**CVPR 2024.** [[Page](https://eckertzhang.github.io/HumanRef.github.io/)] [[Paper](https://arxiv.org/abs/2311.16961)] [[Code](https://github.com/eckertzhang/HumanRef)]
+
+* **ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis** <br>
+Xiangjun Gao, **Xiaoyu Li**, Chaopeng Zhang, Qi Zhang, Yanpei Cao, Ying Shan, Long Quan <br>
+**CVPR 2024.** [[Page](https://gaoxiangjun.github.io/contex_human/)] [[Paper](https://arxiv.org/abs/2311.17123)] [[Code](https://github.com/gaoxiangjun/ConTex-Human)]
