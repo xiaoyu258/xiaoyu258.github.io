@@ -158,6 +158,8 @@ Jingbo Zhang, **Xiaoyu Li<sup>#</sup>**, Ziyu Wan, Can Wang, Jing Liao <br>
 Jingbo Zhang, **Xiaoyu Li**, Qi Zhang, Yanpei Cao, Ying Shan, Jing Liao <br>
 **CVPR 2024.** [[Page](https://eckertzhang.github.io/HumanRef.github.io/)] [[Paper](https://arxiv.org/abs/2311.16961)] [[Code](https://github.com/eckertzhang/HumanRef)]
 
-* **ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis** <br>
+* ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis <br>
 Xiangjun Gao, **Xiaoyu Li**, Chaopeng Zhang, Qi Zhang, Yanpei Cao, Ying Shan, Long Quan <br>
 **CVPR 2024.** [[Page](https://gaoxiangjun.github.io/contex_human/)] [[Paper](https://arxiv.org/abs/2311.17123)] [[Code](https://github.com/gaoxiangjun/ConTex-Human)]
+
+### 2023:
