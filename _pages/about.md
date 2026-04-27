@@ -78,9 +78,9 @@ Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, **Xiaoyu Li**, Qi Dou, Jinw
 Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
 **CVPR 2026.** [[Page](https://lg-li.github.io/project/cubecomposer/)] [[Paper](https://arxiv.org/abs/2603.04291)] [[Code](https://github.com/TencentARC/CubeComposer)]
 
-* **VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** <br>
+* **[CVPR 2026] VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** <br>
 Sixiao Zheng, Minghao Yin, Wenbo Hu, **Xiaoyu Li**, Ying Shan, Yanwei Fu <br>
-**CVPR 2026.** [[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] [[Paper](https://arxiv.org/abs/2601.05138)] [[Code](https://github.com/TencentARC/VerseCrafter)]
+[[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] [[Paper](https://arxiv.org/abs/2601.05138)] [[Code](https://github.com/TencentARC/VerseCrafter)]
 
 ### 2025:
 
@@ -158,8 +158,32 @@ Jingbo Zhang, **Xiaoyu Li<sup>#</sup>**, Ziyu Wan, Can Wang, Jing Liao <br>
 Jingbo Zhang, **Xiaoyu Li**, Qi Zhang, Yanpei Cao, Ying Shan, Jing Liao <br>
 **CVPR 2024.** [[Page](https://eckertzhang.github.io/HumanRef.github.io/)] [[Paper](https://arxiv.org/abs/2311.16961)] [[Code](https://github.com/eckertzhang/HumanRef)]
 
-* ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis <br>
+* **ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis** <br>
 Xiangjun Gao, **Xiaoyu Li**, Chaopeng Zhang, Qi Zhang, Yanpei Cao, Ying Shan, Long Quan <br>
 **CVPR 2024.** [[Page](https://gaoxiangjun.github.io/contex_human/)] [[Paper](https://arxiv.org/abs/2311.17123)] [[Code](https://github.com/gaoxiangjun/ConTex-Human)]
 
 ### 2023:
+
+* **Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail** <br>
+Yiyu Zhuang, Qi Zhang, Ying Feng, Hao Zhu, Yao Yao, **Xiaoyu Li**, Yan-Pei Cao, Ying Shan, Xun Cao <br>
+**SIGGRAPH Asia 2023.** [[Page](https://nju-3dv.github.io/projects/lodneus/)] [[Paper](https://arxiv.org/abs/2309.10336)]
+
+* **3D Video Loops from Asynchronous Input** <br>
+Li Ma, **Xiaoyu Li**, Jing Liao, Pedro V. Sander <br>
+**CVPR 2023.** [[Page](https://limacv.github.io/VideoLoop3D_web/)] [[Paper](https://arxiv.org/abs/2303.05312)] [[Code](https://github.com/limacv/VideoLoop3D)]
+
+* **Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars** <br>
+Jingxiang Sun, Xuan Wang, Lizhen Wang, **Xiaoyu Li**, Yong Zhang, Hongwen Zhang, Yebin Liu <br>
+**CVPR 2023.** [[Page](https://mrtornado24.github.io/Next3D/)] [[Paper](https://arxiv.org/abs/2211.11208)] [[Code](https://github.com/MrTornado24/Next3D)]
+
+* **UV Volumes for Real-time Rendering of Editable Free-view Human Performance** <br>
+Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, **Xiaoyu Li**, Yu Guo, Jue Wang, Fei Wang <br>
+**CVPR 2023.** [[Page](https://fanegg.github.io/UV-Volumes/)] [[Paper](https://arxiv.org/abs/2203.14402)] [[Code](https://github.com/fanegg/UV-Volumes)]
+
+* **3D GAN Inversion with Facial Symmetry Prior** <br>
+Fei Yin, Yong Zhang, Xuan Wang, Tengfei Wang, **Xiaoyu Li**, Yuan Gong, Yanbo Fan, Xiaodong Cun, Ying Shan, Cengiz Oztireli, Yujiu Yang <br>
+**CVPR 2023.** [[Page](https://feiiyin.github.io/SPI/)] [[Paper](https://arxiv.org/abs/2211.16927)] [[Code](https://github.com/FeiiYin/SPI)]
+
+* **Local Implicit Ray Function for Generalizable Radiance Field Representation** <br>
+Xin Huang, Qi Zhang, Ying Feng, **Xiaoyu Li**, Xuan Wang, Qing Wang <br>
+**CVPR 2023.** [[Page](https://xhuangcv.github.io/lirf/)] [[Paper](https://arxiv.org/abs/2304.12746)]
