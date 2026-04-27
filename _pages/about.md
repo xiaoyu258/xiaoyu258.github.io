@@ -187,3 +187,27 @@ Fei Yin, Yong Zhang, Xuan Wang, Tengfei Wang, **Xiaoyu Li**, Yuan Gong, Yanbo Fa
 * **Local Implicit Ray Function for Generalizable Radiance Field Representation** <br>
 Xin Huang, Qi Zhang, Ying Feng, **Xiaoyu Li**, Xuan Wang, Qing Wang <br>
 **CVPR 2023.** [[Page](https://xhuangcv.github.io/lirf/)] [[Paper](https://arxiv.org/abs/2304.12746)]
+
+### 2022:
+
+* **Neural Parameterization for Dynamic Human Head Editing** <br>
+Li Ma, **Xiaoyu Li**, Jing Liao, Xuan Wang, Qi Zhang, Jue Wang, Pedro Sander <br>
+**SIGGRAPH Asia 2022 (TOG).** [[Page](https://limacv.github.io/neuvf_web/)] [[Paper](https://arxiv.org/abs/2207.00210)] [[Code](https://github.com/limacv/NeUVF)]
+
+* **FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing** <br>
+Jingbo Zhang, **Xiaoyu Li**, Ziyu Wan, Can Wang, Jing Liao <br>
+**SIGGRAPH Asia 2022.** [[Page](https://fdnerf.github.io/)] [[Paper](https://arxiv.org/abs/2208.05751)] [[Code](https://github.com/FDNeRF/FDNeRF)]
+
+* **Deblur-NeRF: Neural Radiance Fields from Blurry Images** <br>
+Li Ma, **Xiaoyu Li**, Jing Liao, Qi Zhang, Xuan Wang, Jue Wang, Pedro V. Sander <br>
+**CVPR 2022.** [[Page](https://limacv.github.io/deblurnerf/)] [[Paper](https://arxiv.org/abs/2111.14292)] [[Code](https://github.com/limacv/Deblur-NeRF)]
+
+* **Hallucinated Neural Radiance Fields in the Wild** <br>
+Xingyu Chen, Qi Zhang, **Xiaoyu Li**, Yue Chen, Ying Feng, Xuan Wang, Jue Wang <br>
+**CVPR 2022.** [[Page](https://rover-xingyu.github.io/Ha-NeRF/)] [[Paper](https://arxiv.org/abs/2111.15246)] [[Code](https://github.com/rover-xingyu/Ha-NeRF)]
+
+* **FENeRF: Face Editing in Neural Radiance Fields** <br>
+Jingxiang Sun, Xuan Wang, Yong Zhang, **Xiaoyu Li**, Qi Zhang, Yebin Liu, Jue Wang <br>
+**CVPR 2022.** [[Page](https://mrtornado24.github.io/FENeRF/)] [[Paper](https://arxiv.org/abs/2111.15490)] [[Code](https://github.com/MrTornado24/FENeRF)]
+
+
