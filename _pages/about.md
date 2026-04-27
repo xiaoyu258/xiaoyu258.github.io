@@ -78,9 +78,9 @@ Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, **Xiaoyu Li**, Qi Dou, Jinw
 Lingen Li, Guangzhi Wang, **Xiaoyu Li**, Zhaoyang Zhang, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan <br>
 **CVPR 2026.** [[Page](https://lg-li.github.io/project/cubecomposer/)] [[Paper](https://arxiv.org/abs/2603.04291)] [[Code](https://github.com/TencentARC/CubeComposer)]
 
-* **[CVPR 2026] VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** <br>
+* **VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control** <br>
 Sixiao Zheng, Minghao Yin, Wenbo Hu, **Xiaoyu Li**, Ying Shan, Yanwei Fu <br>
-[[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] [[Paper](https://arxiv.org/abs/2601.05138)] [[Code](https://github.com/TencentARC/VerseCrafter)]
+**CVPR 2026.** [[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] [[Paper](https://arxiv.org/abs/2601.05138)] [[Code](https://github.com/TencentARC/VerseCrafter)]
 
 ### 2025:
 
